@@ -306,3 +306,6 @@ Whether its OBIEE, Business Objects, Power BI, SSAS Cube (MultiDimentional or Ta
 4. Hide attributs \ Fields which are not needed
 5. Create Views as per need for reporting
 6. Create derived columns as per need
+"# DataWarehouse-magogate-version" 
+"# DataWarehouse-magogate-version" 
+"# DataWarehouse-magogate-version" 
